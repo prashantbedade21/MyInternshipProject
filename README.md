@@ -1,0 +1,2 @@
+# MyInternshipProject
+Internship with MotionCut
